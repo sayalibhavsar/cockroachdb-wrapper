@@ -2,19 +2,23 @@
   "dependencies": {
     "rhel": [
       "bc",
-      "zip"
+      "zip",
+      "wget"
     ],
     "ubuntu": [
       "bc",
-      "zip"
+      "zip",
+      "wget"
     ],
     "sles": [
       "bc",
-      "zip"
+      "zip",
+      "wget"
     ],
     "amzn": [
       "bc",
-      "zip"
+      "zip",
+      "wget"
     ]
   }
 }
